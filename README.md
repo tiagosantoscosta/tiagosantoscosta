@@ -1,13 +1,12 @@
-## Allan Kennedy 🧑🏽‍💻 
+## Tiago Costa 🧑🏽‍💻 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-kennedy-75009b227/)
-[![GitLab](	https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/allan.kennedy)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/allan_kennedy/)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561985541069&text=Ol%C3%A1%20estou%20vendo%20atrav%C3%A9s%20do%20seu%20github)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-costa-68b95821b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tigocostta/)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561981246704&text=Ol%C3%A1%20estou%20vendo%20atrav%C3%A9s%20do%20seu%20github)
 
-![Kennedy GitHub stats](https://github-readme-stats.vercel.app/api?username=allankenny&show_icons=true&theme=tokyonight)
+![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagosantoscosta&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allankenny)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosantoscosta)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills, Stacks, Technologies, Languages and Frameworks
 ###### Tecnologias
