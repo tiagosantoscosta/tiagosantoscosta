@@ -6,7 +6,8 @@
 
 ![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagosantoscosta&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosantoscosta)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosantoscosta&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Skills, Stacks, Technologies, Languages and Frameworks
 ###### Tecnologias
