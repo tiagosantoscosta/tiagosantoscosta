@@ -4,9 +4,11 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tigocostta/)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561981246704&text=Ol%C3%A1%20estou%20vendo%20atrav%C3%A9s%20do%20seu%20github)
 
-![Tiago GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagosantoscosta&show_icons=true&theme=tokyonight)
+<div style="display: flex;">
+  <img src="https://github-readme-stats.vercel.app/api?username=tiagosantoscosta&show_icons=true&theme=tokyonight" alt="Tiago GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosantoscosta&theme=tokyonight" alt="Top Langs" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosantoscosta&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
